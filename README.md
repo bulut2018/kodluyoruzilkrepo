@@ -1,0 +1,2 @@
+# kodluyoruzilkrepo
+git kurs 
